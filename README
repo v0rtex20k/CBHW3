@@ -1,0 +1,16 @@
+Victor Arsenescu
+CompBio Spring 2020
+03/09/20
+
+To run deBruijn.py, simply type:
+
+" $python3 deBruijn.py "
+
+on the command line. To change k or the minimum contig size 
+(defaults 31 and 100, respectively), simply scroll to the
+bottom of deBruijn.py (lines 128 and 129) and modify their
+values. Note that average runtime for the full set of
+reads is 10-15 min on average. 
+
+Did not collaborate with anyone on this code or ask
+any questions.
